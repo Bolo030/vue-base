@@ -16,5 +16,6 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-```
-vue基础demo
+
+
+vue的一些基础
