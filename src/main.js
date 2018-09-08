@@ -5,6 +5,7 @@ import App from './App'
 import router from './router'
 //导入mui
 import './assets/libs/mui/css/mui.css'
+import './assets/libs/mui/css/icons-extra.css'
 
 //按需导入组件
 import Mint from 'mint-ui';
